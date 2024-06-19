@@ -18,4 +18,4 @@ pip install pygame
 ```
 
 ## Contributors
-Mohammed Adnan Siddiqui 
+Mohammed Adnan Siddiqui
