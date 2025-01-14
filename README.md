@@ -1,16 +1,18 @@
-# Py-01 (Pr/7)
+# Py-01: Alien Invasion Game (Pr/7)
 
-## Description
-Alien Invasion Game written on Python
+## Overview  
+The *Alien Invasion Game* is a Python-based arcade game where players control a ship that can move left and right while shooting bullets to eliminate aliens. The game tracks the highest score, current score, lives remaining, and level progression, providing an engaging and interactive experience.  
 
-## Completetion Date
-Ongoing 
+## Completion Date  
+Ongoing  
 
-## Introduction 
-A Python Alien Invasion Game. It has a ship that shoots bullets to kill aliens and has full movement of right and left. It shows highest score, current score, lives left and level.  
+## Tools and Technologies  
+Python, Pygame  
+
+## Keywords  
+Alien Invasion, Python Game Development, Pygame, Arcade Game, Score Tracking, Interactive Gameplay  
 
 ## Installation
-
 ### 1. Install Pygame Python Package
 
 ```bash
@@ -18,4 +20,4 @@ pip install pygame
 ```
 
 ## Contributors
-Mohammed Adnan Siddiqui
+*Mohammed Adnan Siddiqui*
